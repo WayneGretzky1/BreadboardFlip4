@@ -7,18 +7,14 @@ Term: Spring 2022
 Lab/assignment number: Final Project
 
 This is the complete file set for the BreadboardFlip4 speaker system. 
-
-This program runs on one IoT photon, one LCD display, three pushbuttons and one html. It requires minimal code manipulation.
-    
-This file is operational when compiled using MPLAB X IDE Version 5.50. It uses a XC16 V02 compliler. 
+This program runs on one IoT photon, one LCD display, three pushbuttons and one html. It requires minimal code manipulation. 
 
 Files required for operation:
-~ Project_Aragog_main.c
-~ Project_Aragog_master.c
-~ Project_Aragog_master.h
-~ Project_Aragog_master_defines.h
-~ Project_Aragog_slave.c
-~ Project_Aragog_slave.h
-~ Project_Aragog_slave_defines.h
-~ Project_Aragog_general_setup.c
-~ Project_Aragog_general_setup.h
+~ flip4.cpp
+~ musicNote.h
+~ playSong.cpp
+~ playSong.h
+~ pushButton.cpp
+~ workingFlip4.cpp
+~ IoT folder
+~ .vscode folder
